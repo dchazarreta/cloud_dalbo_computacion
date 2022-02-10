@@ -92,7 +92,7 @@ footer{
     flex-direction: row;
     flex-wrap: wrap;
     justify-content:space-between;
-    background-image: linear-gradient(to right, #C1FF70, #D323F7);
+    background-color: #c1ff70;
     padding: 20px;
     border: 1px solid #ffffff;
 }  
@@ -208,7 +208,7 @@ footer{
             flex-direction: row;
             flex-wrap: wrap;
             justify-content:space-between;
-            background-image: linear-gradient(to right, #C1FF70, #D323F7);
+            background-color: #c1ff70;
             padding: 20px;
             border: 1px solid #ffffff;
         }  
@@ -326,7 +326,7 @@ footer{
         flex-direction: row;
         flex-wrap: wrap;
         justify-content:space-between;
-        background-image: linear-gradient(to right, #C1FF70, #D323F7);
+        background-color: #c1ff70;
         padding: 20px;
         border: 1px solid #ffffff;
     }  
