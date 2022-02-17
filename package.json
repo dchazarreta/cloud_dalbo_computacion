@@ -1,0 +1,26 @@
+{
+  "name": "dalbo-computacion-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+
+    "build-css": "sass scss/origen.scss css/estilos1.css",
+    "watch-css": "nodemon -e scss -x \"npm run build-css\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dchazarreta/cloud_dalbo_computacion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dchazarreta/cloud_dalbo_computacion/issues"
+  },
+  "homepage": "https://github.com/dchazarreta/cloud_dalbo_computacion#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "sass": "^1.49.7"
+  }
+}

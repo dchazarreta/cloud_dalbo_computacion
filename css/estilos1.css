@@ -1,0 +1,72 @@
+/*RESETEO*/
+* {
+  margin: 0px;
+}
+
+h1 {
+  color: #ffffff;
+  font-family: "Bebas Neue", cursive;
+  text-align: center;
+  padding: 30px 30px;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+  font-family: "Bebas Neue", cursive;
+  padding-bottom: 30px;
+  padding-top: 20px;
+}
+
+h3 {
+  padding: 5px 0px 10px 0px;
+}
+
+#TextoSeparadoContacto {
+  padding-bottom: 20px;
+}
+
+nav h2 {
+  color: #ffffff;
+}
+
+body {
+  font-family: "Roboto Mono", monospace;
+  height: 100vh;
+}
+
+img {
+  width: 200px;
+  padding: 30px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+/* CLASES */
+.Fondoweb {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.FondoMenu {
+  background-color: darkgreen;
+  padding-bottom: 30px;
+}
+
+/*FLEX*/
+.MenuFlex {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
+
+.negro {
+  background-color: #111;
+}
+
+/*# sourceMappingURL=estilos1.css.map */
