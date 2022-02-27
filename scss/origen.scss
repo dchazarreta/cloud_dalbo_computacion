@@ -76,3 +76,17 @@ ul {
     background-color: #111;
 }
 
+//*mapas*//
+
+$redSocial : ( /*mapa*/
+        facebook:  #3a5795,
+        Instagram: #e90da7
+        ); 
+/*Creamos el bucle para usar los valores del mapa*/
+@each $red, $color in $redSocial {
+   .btn--#{$red} {
+       background-color: $color;
+   }
+}
+
+

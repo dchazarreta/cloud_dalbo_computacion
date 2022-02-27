@@ -69,4 +69,13 @@ ul {
   background-color: #111;
 }
 
-/*# sourceMappingURL=estilos1.css.map */
+/*Creamos el bucle para usar los valores del mapa*/
+.btn--facebook {
+  background-color: #3a5795;
+}
+
+.btn--Instagram {
+  background-color: #e90da7;
+}
+
+/*# sourceMappingURL=estilos.css.map */
